@@ -9,4 +9,4 @@ javac -cp .  Hellowrold.java
 java -cp . Helloworld.java
 
 # * 중요한것 * 
-# 파일이름 앞글자는 무조건 대문자로 
+ 파일이름 앞글자는 무조건 대문자로 
