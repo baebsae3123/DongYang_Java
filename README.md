@@ -8,11 +8,5 @@ javac -cp .  Hellowrold.java
 
 java -cp . Helloworld.java
 
-public class Helloworld{
-	public static void main(String args[]){
-		System.out.println("1.Hello world");
-		System.out.println("2.Hello world");
-		System.out.println("3.Hello world");
-
-	}
-}
+# * 중요한것 * 
+# 파일이름 앞글자는 무조건 대문자로 
