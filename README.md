@@ -1,3 +1,6 @@
+vscode 실행
+<img width="1145" height="312" alt="image" src="https://github.com/user-attachments/assets/0dbab82e-6fac-4ae0-86fe-73fd072ad1ed" />
+
 # DongYang_Java
 
 #자바 컴파일해서 클래스 파일로 만들기
