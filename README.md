@@ -16,5 +16,6 @@ java -cp . Helloworld.java
 
 <img width="298" height="110" alt="image" src="https://github.com/user-attachments/assets/615d7b9b-3969-442b-aae6-963148be92c1" />
 
+
 변수타입 
 <img width="471" height="259" alt="image" src="https://github.com/user-attachments/assets/fb5450ca-3baf-4210-983d-64a079c9fd69" />
