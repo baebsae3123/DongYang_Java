@@ -15,3 +15,32 @@ java -cp . Helloworld.java
  파일이름 앞글자는 무조건 대문자로 
 
 <img width="298" height="110" alt="image" src="https://github.com/user-attachments/assets/615d7b9b-3969-442b-aae6-963148be92c1" />
+
+변수초기화 문제
+
+package project2;
+
+public class Errorcode{
+	public static void main(String[] args) {
+		int value;
+		
+		//연산 결과물 변수 result 의 초기값으로 대입
+		int result = value + 10;
+		
+		System.out.println(result);
+	}
+}
+
+
+package project2;
+
+public class Pufectcode{
+	public static void main(String[] args) {
+		int hour = 3;
+		int minute = 5;
+		System.out.println(hour + "시간" + minute +"분");
+		
+		int totalMinute = (hour*60) + minute;
+		System.out.println("총"+totalMinute+"분");
+	}
+}
