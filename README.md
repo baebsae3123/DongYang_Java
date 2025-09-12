@@ -19,3 +19,8 @@ java -cp . Helloworld.java
 
 변수타입 
 <img width="471" height="259" alt="image" src="https://github.com/user-attachments/assets/fb5450ca-3baf-4210-983d-64a079c9fd69" />
+
+
+e → 지수 표기법 (10의 거듭제곱)
+
+f → float 타입 강제 지정
